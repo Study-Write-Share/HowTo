@@ -807,12 +807,10 @@ Discussion 是 GitHub 的社区讨论功能，用于非正式交流。
 
 4. **添加审查意见**：
 
-```markdown
+```javascript
 <!-- 建议性评论 -->
 💡 这里可以使用更简洁的写法：
-```javascript
 return items.filter(item => item.active);
-```
 
 <!-- 指出问题 -->
 ⚠️ 这里可能会导致空指针异常，建议添加空值检查
@@ -875,6 +873,7 @@ return items.filter(item => item.active);
 ```
 
 ✅ **好的反馈：**
+
 ```markdown
 这个函数有点长，建议拆分成几个小函数，每个函数只做一件事。
 这样可以提高可读性和可测试性。
