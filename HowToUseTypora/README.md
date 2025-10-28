@@ -145,6 +145,7 @@ sudo apt-get install typora
 ### 三级标题
 
 **Typora 快捷键：**
+
 - `Ctrl + 1` ~ `Ctrl + 6`：设置为 1-6 级标题
 - `Ctrl + 0`：设置为普通段落
 
@@ -920,8 +921,6 @@ def hello():
 def hello():
     print("Hello")
 ```
-```
-
 ### 5. 链接和图片使用描述性文本
 
 ```markdown
