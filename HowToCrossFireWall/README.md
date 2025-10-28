@@ -29,27 +29,29 @@
 #### 1. Clash for Windows（推荐）
 
 **下载方式：**
-- 访问 GitHub 发布页：https://github.com/Fndroid/clash_for_windows_pkg/releases
+- 访问 GitHub 发布页：https://github.com/clash-verge-rev/clash-verge-rev/releases
 - 下载最新版本的 `.exe` 安装包
 - 双击安装包完成安装
 
-**使用步骤：**
+**使用步骤：**（以windows版本为例）
 
 1. **安装完成后启动软件**
 2. **导入订阅链接：**
-   - 点击左侧 `Profiles` (配置)
-   - 在 `Download` 输入框中粘贴你的订阅链接
-   - 点击 `Download` 按钮下载配置
+   - 点击左侧 `订阅` 
+   - 点击右上角 `新建` 
+   - 在`订阅链接` 中输入机场提供的链接
+   - 点击 `保存` 
 3. **选择节点：**
    - 点击左侧 `Proxies` (代理)
    - 选择合适的节点（建议选择延迟较低的）
 4. **开启代理：**
-   - 点击左侧 `General` (常规)
+   - 点击左侧 `Settings` (设置)
    - 打开 `System Proxy` (系统代理) 开关
 
-#### 2. V2rayN
+#### 2. V2rayN（推荐在手机上使用，但三星OneUI系统不推荐使用，亲测容易崩溃）
 
 **下载方式：**
+
 - GitHub 地址：https://github.com/2dust/v2rayN/releases
 - 下载 `v2rayN-windows.zip` 
 - 解压后运行 `v2rayN.exe`
@@ -61,20 +63,6 @@
 3. 添加订阅地址
 4. 更新订阅
 5. 选择节点并启用系统代理
-
-### macOS 系统
-
-#### ClashX（推荐）
-
-**下载方式：**
-- GitHub 地址：https://github.com/yichengchen/clashX/releases
-- 下载 `.dmg` 文件安装
-
-**使用步骤：**
-1. 安装并启动 ClashX
-2. 点击菜单栏图标 -> `配置` -> `托管配置` -> `管理`
-3. 点击 `添加` 输入订阅链接
-4. 设置为系统代理
 
 ### Android 系统
 
@@ -132,6 +120,12 @@
 - 订阅链接是你的专属链接，不要分享给他人
 - 定期更新订阅以获取最新节点
 - 如果链接泄露，及时在机场后台重置
+
+### 推荐机场
+
+Gatern：https://shuttle.gt-all.com/index.php/store/ding-yue-fu-wu' @Tiger
+
+*持续更新....*
 
 ## 常见问题
 
