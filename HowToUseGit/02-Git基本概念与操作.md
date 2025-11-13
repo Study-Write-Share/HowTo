@@ -101,6 +101,9 @@ git clone --depth 1 https://github.com/用户名/仓库名.git
 
 # 进入项目目录
 cd 仓库名
+
+#返回上一目录
+cd ..
 ```
 
 **HTTPS vs SSH：**
