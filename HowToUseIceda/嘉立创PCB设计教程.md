@@ -107,3 +107,44 @@
 ​	Intel(x64)：[lceda-mac-x64-6.5.51.zip](https://image.lceda.cn/files/lceda-mac-x64-6.5.51.zip?d=1123)
 
 ## 嘉立创入门
+
+### 1.电阻元件认识
+
+1.插线电阻
+
+![插线电阻读数](C:\Users\22236\Desktop\PCB设计\嘉立创\插线电阻读数.png)
+
+2.贴片电阻
+
+​	3位读数，前两位为有效数字，第三位表示10的n次幂（或者说是0的个数），精度±5%；
+
+​	4位读数，前三位为有效数字，第四位表示10的n次幂（或者说是0的个数），精度±1%；
+
+​	R作标记，可以看作是小数点，R003即0.003Ω。
+
+### 2.电容元件
+
+​	有/无极性（有/无+）
+
+![image-20251113215536545](C:\Users\22236\AppData\Roaming\Typora\typora-user-images\image-20251113215536545.png)
+
+![image-20251113215825606](C:\Users\22236\AppData\Roaming\Typora\typora-user-images\image-20251113215825606.png)
+
+![](C:\Users\22236\AppData\Roaming\Typora\typora-user-images\image-20251113215842262.png)
+
+![image-20251113215907755](C:\Users\22236\AppData\Roaming\Typora\typora-user-images\image-20251113215907755.png)
+
+![image-20251113215924952](C:\Users\22236\AppData\Roaming\Typora\typora-user-images\image-20251113215924952.png)
+
+### 3.电感元件
+
+![image-20251113220219821](C:\Users\22236\AppData\Roaming\Typora\typora-user-images\image-20251113220219821.png)
+
+​	前两位是阻值的有效数，第三位表示幂，默认单位是uH。
+
+![image-20251113220338485](C:\Users\22236\AppData\Roaming\Typora\typora-user-images\image-20251113220338485.png)
+
+![image-20251113220448133](C:\Users\22236\AppData\Roaming\Typora\typora-user-images\image-20251113220448133.png)
+
+### 4.二极管
+
